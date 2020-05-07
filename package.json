@@ -1,0 +1,28 @@
+{
+  "name": "descendencia",
+  "version": "1.0.0",
+  "description": "Primer servidor con npm, bootstrap y otras tecnologías",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielmerin/BootstrapAr.git"
+  },
+  "author": "Ariel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielmerin/BootstrapAr/issues"
+  },
+  "homepage": "https://github.com/arielmerin/BootstrapAr#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
