@@ -9,7 +9,8 @@
     background-color: #d1d1d1;
     margin-bottom: 0;
 }
-.btn{
-    background-color: blueviolet;
-    border-color: blueviolet;
+.btn-lg{
+    background-color: #e8b8fc;
+    color: #242324;
+    border-color: #e8b8fc;
 }
